@@ -1,3 +1,6 @@
 .venv/
 __pycache__/
 *.py[cod]
+
+# 运行 Day 49 示例后生成的图片
+days/day-049-l1-l2-weight-decay/*.png

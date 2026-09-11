@@ -84,6 +84,7 @@
 
 | 内容 | 入口 |
 |---|---|
+| Day 49 · L1、L2 正则化案例源码 | [查看代码](days/day-049-l1-l2-weight-decay) |
 | Phase 1 Gate · Softmax、Cross-Entropy 与数值梯度检查 | [查看代码](gates/phase-01-softmax-gradient-check) |
 
 ## 怎样运行
